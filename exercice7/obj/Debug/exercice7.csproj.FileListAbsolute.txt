@@ -1,0 +1,6 @@
+C:\Users\Moi\Desktop\Exercice Tableau\Exercice Tableau\tableau\exercice7\bin\Debug\exercice7.exe.config
+C:\Users\Moi\Desktop\Exercice Tableau\Exercice Tableau\tableau\exercice7\bin\Debug\exercice7.exe
+C:\Users\Moi\Desktop\Exercice Tableau\Exercice Tableau\tableau\exercice7\bin\Debug\exercice7.pdb
+C:\Users\Moi\Desktop\Exercice Tableau\Exercice Tableau\tableau\exercice7\obj\Debug\exercice7.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\Exercice Tableau\Exercice Tableau\tableau\exercice7\obj\Debug\exercice7.exe
+C:\Users\Moi\Desktop\Exercice Tableau\Exercice Tableau\tableau\exercice7\obj\Debug\exercice7.pdb

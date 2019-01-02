@@ -1,0 +1,7 @@
+C:\Users\Moi\Desktop\Exercice Tableau\Exercice Tableau\tableau\exercice3\obj\Debug\exercice3.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\Exercice Tableau\Exercice Tableau\tableau\exercice3\bin\Debug\exercice3.exe.config
+C:\Users\Moi\Desktop\Exercice Tableau\Exercice Tableau\tableau\exercice3\bin\Debug\exercice3.exe
+C:\Users\Moi\Desktop\Exercice Tableau\Exercice Tableau\tableau\exercice3\bin\Debug\exercice3.pdb
+C:\Users\Moi\Desktop\Exercice Tableau\Exercice Tableau\tableau\exercice3\obj\Debug\exercice3.exe
+C:\Users\Moi\Desktop\Exercice Tableau\Exercice Tableau\tableau\exercice3\obj\Debug\exercice3.pdb
+C:\Users\Moi\Desktop\Exercice Tableau\Exercice Tableau\tableau\exercice3\obj\Debug\exercice3.csprojAssemblyReference.cache

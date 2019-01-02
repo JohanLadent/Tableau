@@ -1,0 +1,7 @@
+C:\Users\Moi\Desktop\Exercice Tableau\Exercice Tableau\tableau\exo3correction\bin\Debug\exo3correction.exe.config
+C:\Users\Moi\Desktop\Exercice Tableau\Exercice Tableau\tableau\exo3correction\bin\Debug\exo3correction.exe
+C:\Users\Moi\Desktop\Exercice Tableau\Exercice Tableau\tableau\exo3correction\bin\Debug\exo3correction.pdb
+C:\Users\Moi\Desktop\Exercice Tableau\Exercice Tableau\tableau\exo3correction\obj\Debug\exo3correction.csprojAssemblyReference.cache
+C:\Users\Moi\Desktop\Exercice Tableau\Exercice Tableau\tableau\exo3correction\obj\Debug\exo3correction.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\Exercice Tableau\Exercice Tableau\tableau\exo3correction\obj\Debug\exo3correction.exe
+C:\Users\Moi\Desktop\Exercice Tableau\Exercice Tableau\tableau\exo3correction\obj\Debug\exo3correction.pdb
